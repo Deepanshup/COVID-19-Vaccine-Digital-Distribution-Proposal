@@ -1,0 +1,2 @@
+Download activation.jar from oracle
+Download javamail 1.4.5 and put mail.jar in lib folder from oracle

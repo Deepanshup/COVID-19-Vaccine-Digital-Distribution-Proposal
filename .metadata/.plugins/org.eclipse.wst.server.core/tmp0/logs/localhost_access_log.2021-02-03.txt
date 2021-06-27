@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:03:15 +0530] "POST /Vaccine/dist_city.jsp?cid=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:03:15 +0530] "GET /Vaccine/dist_city.jsp?cid=1 HTTP/1.1" 200 27122
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:03:15 +0530] "GET /Vaccine/assets/img/fla.webp HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:03:15 +0530] "GET /Vaccine/assets/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:11:03:22 +0530] "GET /Vaccine/dist_city.jsp?cid=2 HTTP/1.1" 200 26009
